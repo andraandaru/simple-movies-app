@@ -17,7 +17,7 @@ If you doesn't have API Key, please follow the steps below.
 5. Show Movie Poster in a popup modal window when image from the list is clicked
 6. Autocomplete searchbox when search movies keyword
 7. Test Cases for some components and Reducers
-8. Responsive
+8. Responsive Web Design
 
 ## The Project Use
 
