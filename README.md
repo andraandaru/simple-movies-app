@@ -23,10 +23,9 @@ If you doesn't have API Key, please follow the steps below.
 
 1. ReactJS (Create React App) [https://create-react-app.dev/](https://create-react-app.dev/)
 2. UI Framework: MUI [https://mui.com/](https://mui.com/)
-3. Redux [https://redux.js.org/](https://redux.js.org/)
-4. Redux Thunk [https://www.npmjs.com/package/redux-thunk](https://www.npmjs.com/package/redux-thunk)
-5. Axios [https://axios-http.com/](https://axios-http.com/)
-6. React Router DOM [https://reactrouter.com/](https://reactrouter.com/)
+3. Redux Toolkit [https://redux-toolkit.js.org/](https://redux-toolkit.js.org/)
+4. Axios [https://axios-http.com/](https://axios-http.com/)
+5. React Router DOM [https://reactrouter.com/](https://reactrouter.com/)
 
 # Getting Started
 
